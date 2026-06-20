@@ -239,10 +239,10 @@ Semakin besar corpus dan semakin lama training dilakukan, maka kualitas teks yan
 
 # Author
 
-Nama: [ISI NAMA KAMU]
+Nama: Irsyaad Rifki Pranata
 
 Mata Kuliah:
-Big Data & Predictive Analytics
+Proyek Data Mining
 
 Semester:
-4 Informatika
+6 Informatika
